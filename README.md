@@ -1,0 +1,3 @@
+### Description
+
+A Choose Your Own Adventure game made using HTML, CSS, and Javascript through Twine. The story features reactive text, hidden context, a compelling soundtrack, engaging storytelling, and a lot to ponder when you are done. The story has multiple endings (about 4) depending on the choices you made in your first AND SECOND playthrough. The game is designed to consider your choices in your first playthrough to encourage you to play a second playthrough to unlock the secret ending. 
